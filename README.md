@@ -1,6 +1,8 @@
 # baddream2007 (The Entire History Of Us)
 version 1 test run not complete
 
+<!-- language: lang-none -->
+
 ~         ~~          __
        _T      .,,.    ~--~ ^^
  ^^   // \                    ~
