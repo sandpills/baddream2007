@@ -1,7 +1,7 @@
 # baddream2007 (The Entire History Of Us)
 version 1 test run not complete
 
-<!-- language: lang-none -->
+<pre>
 
 ~         ~~          __
        _T      .,,.    ~--~ ^^
@@ -14,6 +14,8 @@ __/_  /   \ ______/ ''   /'\_,__
 :' |  | []  -|   ''--:.;[,.'\,/
 '  |[]|,.--'' '',   ''-,.    |
   ..    ..-''    ;       ''. '
+
+</pre>
 
 An interactive fiction that took place on the internet of 2010. <br>
 You're digging through past messages, looking for clues about your online friend who disappeared on you.
